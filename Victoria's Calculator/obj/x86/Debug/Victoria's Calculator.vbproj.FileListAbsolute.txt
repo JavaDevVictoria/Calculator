@@ -1,0 +1,11 @@
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\bin\Debug\Victoria's Calculator.exe
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\bin\Debug\Victoria's Calculator.pdb
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\bin\Debug\Victoria's Calculator.xml
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\Victoria_s_Calculator.Form1.resources
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\Victoria_s_Calculator.Resources.resources
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\Victoria's Calculator.exe
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\Victoria's Calculator.xml
+C:\Vicky\Visual Studio\Victoria's Calculator\Victoria's Calculator\obj\x86\Debug\Victoria's Calculator.pdb
